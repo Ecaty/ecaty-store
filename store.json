@@ -1,0 +1,7 @@
+{
+  "name": "Ecaty",
+  "version": "0.1.0",
+  "build": 1,
+  "android": { "package": "" },
+  "steam": { "appId": "", "depots": { "windows": "" }, "branch": "beta" }
+}
