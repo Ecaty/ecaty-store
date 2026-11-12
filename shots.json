@@ -1,0 +1,44 @@
+{
+  "shots": [
+    {
+      "name": "01-gallery-tree",
+      "stores": ["steam"],
+      "width": 1920,
+      "height": 1080,
+      "wait": 3,
+      "setup": "GalleryTreeSettings { GalleryView: {0, -3.7, 0, 35, 44, 1, 6} }"
+    },
+    {
+      "name": "02-gallery-close",
+      "stores": ["steam"],
+      "width": 1920,
+      "height": 1080,
+      "wait": 3,
+      "setup": "GalleryTreeSettings { GalleryView: {0, -3.2, 0, 70, 24, 0.7, 6} }"
+    },
+    {
+      "name": "03-gallery-side",
+      "stores": ["steam"],
+      "width": 1920,
+      "height": 1080,
+      "wait": 3,
+      "setup": "GalleryTreeSettings { GalleryView: {0, -3.7, 0, 160, 12, 1.4, 6} }"
+    },
+    {
+      "name": "04-gallery-above",
+      "stores": ["steam"],
+      "width": 1920,
+      "height": 1080,
+      "wait": 3,
+      "setup": "GalleryTreeSettings { GalleryView: {0, -3.7, 0, 250, 72, 2.2, 6} }"
+    },
+    {
+      "name": "05-aquarium",
+      "stores": ["steam"],
+      "width": 1920,
+      "height": 1080,
+      "wait": 6,
+      "setup": "GalleryTreeSettings { GalleryEnterIntent: {\"GalleryAquarium\"} }"
+    }
+  ]
+}
